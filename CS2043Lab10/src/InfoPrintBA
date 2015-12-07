@@ -1,0 +1,7 @@
+
+public class InfoPrintBA {
+	public static String printXxx){
+		System.out.println("Tairen Ba");
+	}
+
+}
